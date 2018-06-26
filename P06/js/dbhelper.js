@@ -141,7 +141,7 @@ class DBHelper{
    * Restaurant image URL.
    */
   static imageUrlForRestaurant(restaurant) {
-    return (`https://yunkigeo.github.io/fend/P06/Test/img/${restaurant.photograph}`);
+    return (`https://yunkigeo.github.io/fend/P06/img/${restaurant.photograph}`);
   }
 
   /**
